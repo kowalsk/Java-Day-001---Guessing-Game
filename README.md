@@ -3,6 +3,7 @@ Modified version of http://www.java-made-easy.com/guessing-game.html with comput
 
 SAMPLE OUTPUT:
 
+<p>
 Human(0) or Computer(1) game? (0/1)
 1
 Current player is: Computer
@@ -32,3 +33,4 @@ Guess a number between 1 and 1000:
 You win Computer!
 The number was 847
 It took you 8 tries
+</p>
